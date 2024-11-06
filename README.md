@@ -1,7 +1,7 @@
 <p align="center" width="100%">
-    <img src="DiabEye_Logo.png" alt="DiabEye Logo" width="10%">
+    <img src="DiabEye_Logo.png" alt="DiabEye Logo" width="20%">
 </p>
-<h1 align="center">DiabEye : Detecting Diabetic Retinopathy using Deep Learning</h1>
+<h1 align="center">DiabEye : Detecting DR using Deep Learning</h1>
 
 Welcome to the Diabetic Retinopathy Detection App repository. This project is designed to detect diabetic retinopathy using image classification models. The app is hosted online and can be accessed [here](https://drdetectionsdp.streamlit.app/).
 
